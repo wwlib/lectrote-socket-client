@@ -1,0 +1,67 @@
+{
+    "type": "update",
+    "gen": 4,
+    "windows": null,
+    "content": [
+        {
+            "id": 555,
+            "lines": [
+                {
+                    "line": 0,
+                    "content": [
+                        "normal",
+                        " Water Lane                                                "
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 553,
+            "text": [
+                {
+                    "content": [
+                        "input",
+                        "east"
+                    ],
+                    "append": true
+                },
+                {},
+                {
+                    "content": [
+                        "subheader",
+                        "Water Lane"
+                    ]
+                },
+                {
+                    "content": [
+                        "normal",
+                        "Here Thames Street -- never very straight -- goes steeply southeast for a portion before continuing more directly to the east."
+                    ]
+                },
+                {},
+                {
+                    "content": [
+                        "normal",
+                        "Water Lane runs south toward Queen Street, and facing onto it is the New Prison -- which, in the way of these things, is neither. It did serve in that capacity for a time, and in a measure of the villainy which has been usual in Port Royal from its earliest days, it is nearly the largest building in the town."
+                    ]
+                },
+                {},
+                {
+                    "content": [
+                        "normal",
+                        ">"
+                    ]
+                }
+            ]
+        }
+    ],
+    "input": [
+        {
+            "id": 553,
+            "type": "line",
+            "gen": 4,
+            "maxlen": 256,
+            "initial": ""
+        }
+    ]
+}
